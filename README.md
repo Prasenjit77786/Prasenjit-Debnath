@@ -1,5 +1,3 @@
-Copy All
-
 # 👋 Hi, I'm Prasenjit Debnath
 
 Network Engineer → Cloud & Automation | Agartala, India 🇮🇳
@@ -109,9 +107,7 @@ Network Engineer → Cloud & Automation | Agartala, India 🇮🇳
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasenjit-debnath-0b963b16b) 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Prasenjitdebnathcsc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasenjit-debnath-0b963b16b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Prasenjitdebnathcsc@gmail.com)
 
 ---
 
