@@ -65,7 +65,7 @@ Network Engineer → Cloud & Automation | Agartala, India 🇮🇳
 ## 🔭 Currently Building
 
 ```
-🏠 Home Lab Setup (ThinkBook 16 Gen 7)
+Lab Setup 
 ├── VMware Workstation Pro 17
 ├── Rocky Linux VM
 ├── Virtual DC Topology
